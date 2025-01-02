@@ -1,5 +1,4 @@
 #!.bin/bash
-#!/bin/bash
 
 # Asegurarse de tener privilegios de administrador
 if [ "$EUID" -ne 0 ]; then
